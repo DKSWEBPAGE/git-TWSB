@@ -1,1 +1,1 @@
-print("hello dosto 2.0 let start learning for today")
+print("hello dosto 2.0 let start learning for today and today only")
