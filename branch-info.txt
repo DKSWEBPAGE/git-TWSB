@@ -4,5 +4,6 @@ git branch
 git switch <branch_name> or git cheackout <branch_name>
 
 git branch -m <name_what_change>
+git log --oneline 
 
 git branch -d <branch_name>
