@@ -1,4 +1,7 @@
-git branch dev         
+git branch dev 
+
+git fetch (when you create branch from remote to local)
+
 git branch
 
 git switch <branch_name> or git cheackout <branch_name>

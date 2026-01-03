@@ -12,7 +12,7 @@ git remote add origin https://github.com/DKSWEBPAGE/git-TWS.git
 
 git remote set-url origin https:// you-TOKON@github.com/DKSWEBPAGE/git-TWS.git 
 git remote -v 
-git push orgin master 
+
 git push origin master 
 
 //git to LOCAL 
