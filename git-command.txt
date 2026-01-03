@@ -21,4 +21,6 @@ cd myCloneGit
 git clone https://github.com/DKSWEBPAGE/git-TWS.git
 
 
-// let see how can pull 
+// let see how can pull
+
+git pull origin master
