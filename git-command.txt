@@ -1,0 +1,20 @@
+git init 
+git status 
+git add file_name 
+git rm --cached file_name 
+git commit -m "commit message" git restore filenem 
+
+
+// LOCAL TO git 
+git remote -v 
+
+git remote add origin https://github.com/DKSWEBPAGE/git-TWS.git 
+
+git remote set-url origin https:// you-TOKON@github.com/DKSWEBPAGE/git-TWS.git 
+git remote -v 
+git push orgin master 
+git push origin master 
+
+//git to LOCAL 
+cd myCloneGit 
+git clone https://github.com/DKSWEBPAGE/git-TWS.git
