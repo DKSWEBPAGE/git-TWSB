@@ -4,4 +4,4 @@ def function():
     return a + b
 
 
-print("my name is hook_test")
+print("my name is hook_tests")
