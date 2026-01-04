@@ -7,3 +7,11 @@ git branch -m <name_what_change>
 git log --oneline 
 
 git branch -d <branch_name>
+
+
+
+//HOOK
+
+vim pri-commit (create a pri-commit in .git/hook)
+pip install flake8   [tool name for python to ckeck code]
+chmod 777 file_name  [change file permisson]
